@@ -1,1 +1,1 @@
-# Multi-Agent-AI-System
+# Agentic-RAG
